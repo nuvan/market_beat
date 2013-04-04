@@ -6,7 +6,6 @@
 require File.dirname(__FILE__) + '/market_beat/yahoo'
 require File.dirname(__FILE__) + '/market_beat/google'
 require File.dirname(__FILE__) + '/market_beat/historical'
-require File.dirname(__FILE__) + '/market_beat/currency'
 require File.dirname(__FILE__) + "/market_beat/version"
 
 module MarketBeat
